@@ -71,4 +71,5 @@ public class FirefoxTest {
         driver.quit();
     }
 //komentarz1
+    //kom2
 }
