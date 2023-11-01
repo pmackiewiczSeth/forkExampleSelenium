@@ -63,4 +63,5 @@ public class SafariTest {
     }
 //kom1
     //kom z githuba1
+    // kom2 z githuba
 }
