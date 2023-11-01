@@ -70,5 +70,5 @@ public class FirefoxTest {
     public void teardown() throws IOException {
         driver.quit();
     }
-
+//komentarz1
 }
