@@ -79,4 +79,5 @@ public class ChromeDriverTest {
     }
 // dodajemy komentarz do pusha
     //kom1 z github
+    //test fetch
 }
