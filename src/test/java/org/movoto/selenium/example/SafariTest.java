@@ -56,7 +56,7 @@ public class SafariTest {
         );
 
     }
-
+//kom testmaster 1 safari
     @After
     public void teardown() throws IOException {
         driver.quit();
