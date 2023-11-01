@@ -78,4 +78,5 @@ public class ChromeDriverTest {
         driver.quit();
     }
 // dodajemy komentarz do pusha
+    //kom1 z github
 }
