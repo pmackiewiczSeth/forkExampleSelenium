@@ -62,4 +62,5 @@ public class SafariTest {
         driver.quit();
     }
 //kom1
+    //kom z githuba1
 }
